@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js & React native**
 
-- 👨‍💻 All of my projects are available at [bugraj.github.io](bugraj.github.io)
+- 👨‍💻 All of my projects are available at [bugraj.github.io](https://bugraj.github.io/)
 
 - 💬 Ask me about **CP & Web dev.**
 
