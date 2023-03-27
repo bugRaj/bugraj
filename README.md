@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Raj kr Soni.</h1>
 <h3 align="center">Web developer & Problem solver.</h3>
-
+<img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" align="right" alt="code" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugraj&label=Profile%20views&color=0e75b6&style=flat" alt="bugraj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/its_raj_soni" target="blank"><img src="https://img.shields.io/twitter/follow/its_raj_soni?logo=twitter&style=for-the-badge" alt="its_raj_soni" /></a> </p>
