@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently looking for  **SDE roles.**
 
-- 🌱 I’m currently learning **React js & Node js**
+- 🌱 I’m currently learning **React js & Node js.**
 
-- 💬 Ask me about **C, C++ and DSA**
+- 💬 Ask me about **C, C++ and DSA.**
 
 -  📫 How to reach me [https://bugraj.github.io/info/](https://bugraj.github.io/info/)
 
